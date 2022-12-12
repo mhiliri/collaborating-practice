@@ -1,1 +1,1 @@
-# simpsons character collection
+# Simpsons character collection
