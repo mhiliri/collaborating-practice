@@ -1,1 +1,1 @@
-# collaborating-practice
+# simpsons character collection
